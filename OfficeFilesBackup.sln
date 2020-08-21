@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeFilesBackup", "OfficeFilesBackup\OfficeFilesBackup.csproj", "{91DBBFB7-03D2-475A-8ADE-92269BE3A38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DBBFB7-03D2-475A-8ADE-92269BE3A38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DBBFB7-03D2-475A-8ADE-92269BE3A38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DBBFB7-03D2-475A-8ADE-92269BE3A38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DBBFB7-03D2-475A-8ADE-92269BE3A38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58D1A36-E16C-4E76-84A2-2E526AD5E4D9}
+	EndGlobalSection
+EndGlobal
